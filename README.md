@@ -1,7 +1,7 @@
 Javascript.mode
 ===============
 
-Apache configuration mode for Coda 2
+Javascript mode for Coda 2
 
 ## Installation (non Mac App Store version)
 
